@@ -1,1 +1,2 @@
 # Salary-Prediction-Project-Using-Machine-Learning
+•	The project “Employee Salary Prediction Using Machine Learning” applies predictive analytics techniques to estimate employee salaries based on multiple influencing factors such as experience, education, job role, and other attributes. The goal of this project is to build accurate regression models that can learn complex relationships between features and salary outcomes.
